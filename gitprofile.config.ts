@@ -113,13 +113,13 @@ const CONFIG = {
   certifications: [
     {
       name: 'Internship',
-      body: 'Internhip at FAST AI MOVIES',
+      body: 'Internship at FAST AI MOVIES',
       year: '2023',
       link: 'https://www.dropbox.com/scl/fi/nccqaxt69fj647jq38s2z/Internship-2023-FatAIMovies.pdf?rlkey=2aqqoozvbsr1jr8zvnl5n6itn&st=q5ncgsok&dl=0',
     },
     {
       name: 'Internship',
-      body: 'Internhip at Way For Life',
+      body: 'Internship at Way For Life',
       year: '2019',
       link: 'https://www.dropbox.com/scl/fi/h8bk3zl0qsg9yr3torqq0/Internship-2019-WayForLife.pdf?rlkey=q3hp6enet6ky22zqizr3h2g23&st=ybx1t3w1&dl=0',
     },
