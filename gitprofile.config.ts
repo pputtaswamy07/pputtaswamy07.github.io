@@ -74,7 +74,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://www.dropbox.com/scl/fi/m6ttqgnqbafd6wyl90zqg/cv.pdf?rlkey=imgm17ay91kuyil2uaupogj22&st=an3cf021&dl=0', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Angular',
@@ -115,7 +115,13 @@ const CONFIG = {
       name: 'Internship',
       body: 'Internhip at FAST AI MOVIES',
       year: '2023',
-      link: 'https://example.com',
+      link: 'https://www.dropbox.com/scl/fi/nccqaxt69fj647jq38s2z/Internship-2023-FatAIMovies.pdf?rlkey=2aqqoozvbsr1jr8zvnl5n6itn&st=q5ncgsok&dl=0',
+    },
+    {
+      name: 'Internship',
+      body: 'Internhip at Way For Life',
+      year: '2019',
+      link: 'https://www.dropbox.com/scl/fi/h8bk3zl0qsg9yr3torqq0/Internship-2019-WayForLife.pdf?rlkey=q3hp6enet6ky22zqizr3h2g23&st=ybx1t3w1&dl=0',
     },
   ],
   educations: [
