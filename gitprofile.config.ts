@@ -73,7 +73,7 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.w3.org/WAI/ER/tests/xhtml/testfiles/resources/pdf/dummy.pdf', // Empty fileUrl will hide the `Download Resume` button.
+      'https://www.dropbox.com/scl/fi/m6ttqgnqbafd6wyl90zqg/cv.pdf?rlkey=imgm17ay91kuyil2uaupogj22&st=an3cf021&dl=0', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Angular',
@@ -88,40 +88,53 @@ const CONFIG = {
   ],
   experiences: [
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'September 2021',
+      company: 'RSU GmbH',
+      position: 'Fullstack Developer',
+      from: 'March 2023',
       to: 'Present',
-      companyLink: 'https://example.com',
+      companyLink: 'https://rsu.one/',
     },
     {
-      company: 'Company Name',
-      position: 'Position',
-      from: 'July 2019',
-      to: 'August 2021',
-      companyLink: 'https://example.com',
+      company: 'FAST AI MOVIES',
+      position: 'Fullstack Developer',
+      from: 'December 2022',
+      to: 'Febraury 2023',
+      companyLink: 'https://fast-ai-movies.de/',
+    },
+    {
+      company: 'Way for Life',
+      position: 'Fullstack Developer',
+      from: 'June 2019',
+      to: 'October 2019',
+      companyLink: 'https://www.wayforlife.org/',
     },
   ],
   certifications: [
     {
-      name: 'Lorem ipsum',
-      body: 'Lorem ipsum dolor sit amet',
-      year: 'March 2022',
-      link: 'https://example.com',
+      name: 'Internship',
+      body: 'Internship at FAST AI MOVIES',
+      year: '2023',
+      link: 'https://www.dropbox.com/scl/fi/nccqaxt69fj647jq38s2z/Internship-2023-FatAIMovies.pdf?rlkey=2aqqoozvbsr1jr8zvnl5n6itn&st=q5ncgsok&dl=0',
+    },
+    {
+      name: 'Internship',
+      body: 'Internship at Way For Life',
+      year: '2019',
+      link: 'https://www.dropbox.com/scl/fi/h8bk3zl0qsg9yr3torqq0/Internship-2019-WayForLife.pdf?rlkey=q3hp6enet6ky22zqizr3h2g23&st=ybx1t3w1&dl=0',
     },
   ],
   educations: [
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2015',
-      to: '2019',
+      institution: 'Otto-Friedrich Universität',
+      degree: 'M.Sc. in International Software Systems Science',
+      from: '2019',
+      to: 'present',
     },
     {
-      institution: 'Institution Name',
-      degree: 'Degree',
-      from: '2012',
-      to: '2014',
+      institution: 'Visveswaraya Technological University',
+      degree: 'Bachelor of Engineering, Computer Science',
+      from: '2015',
+      to: '2019',
     },
   ],
   publications: [],
