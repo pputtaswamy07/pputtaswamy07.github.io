@@ -73,25 +73,25 @@ const CONFIG = {
   },
   resume: {
     fileUrl:
-      'https://www.dropbox.com/scl/fi/m6ttqgnqbafd6wyl90zqg/cv.pdf?rlkey=imgm17ay91kuyil2uaupogj22&st=an3cf021&dl=0', // Empty fileUrl will hide the `Download Resume` button.
+      'https://www.dropbox.com/scl/fi/ux6bgur7fe8gb5zcl2oy3/Puttaswamy_CV.pdf?rlkey=qjbapvch02ebrqsmeft1qnfqs&st=yilche7u&dl=0', // Empty fileUrl will hide the `Download Resume` button.
   },
   skills: [
     'Angular',
     'JavaScript',
-    'React.js',
+    'TypeScript',
     'Node.js',
     'MySQL',
-    'PostgreSQL',
+    'HTML5',
     'Git',
-    'Docker',
-    'CSS',
+    'AWS',
+    'CSS3/SCSS',
   ],
   experiences: [
     {
       company: 'RSU GmbH',
       position: 'Fullstack Developer',
       from: 'March 2023',
-      to: 'Present',
+      to: 'September 2024',
       companyLink: 'https://rsu.one/',
     },
     {
